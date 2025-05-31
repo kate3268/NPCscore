@@ -1,4 +1,4 @@
-# NPCscore
+# NPC RSS
 #### Project Overview
 
 In this project, a Nasopharyngeal Cancer Radiotherapy Sensitivity Scoring System (NPC-RSS) was constructed based on machine learning methods for predicting the sensitivity of nasopharyngeal cancer patients to radiation therapy. The model integrates transcriptomic data and screens key genes through a combination of multiple machine learning algorithms to build a scoring model with good predictive performance.
