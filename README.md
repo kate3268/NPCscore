@@ -1,3 +1,9 @@
+
+The data and code used in this study have been made publicly available at https://doi.org/10.7554/eLife.99849.2. If you use any resources from this study in your work, please cite:
+
+Li K, Liang J, Li N, Fang J, Zhou X, Zhang J, Lin A, Luo P, Meng H. A multi-gene predictive model for the radiation sensitivity of nasopharyngeal carcinoma based on machine learning. eLife. 2024;99849. doi: 10.7554/eLife.99849.2
+
+
 # NPC RSS
 #### Project Overview
 
